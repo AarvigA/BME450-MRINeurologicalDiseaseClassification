@@ -8,7 +8,6 @@
   - Pachygyria with Cerebellar Hypoplasia
   - Moyamoya Disease
   - Hallervorden-Spatz Disease (PKAN)
-  - Fukuyama Muscular Dystrophy
-  
-  Training will be accomplished using the following Kaggle dataset:
-    https://www.kaggle.com/datasets/ahsanneural/rare-neurological-diseases-mri-curated-edition
+  - Fukuyama Muscular Dystrophy 
+  Training will be accomplished using the following Kaggle dataset: 
+  https://www.kaggle.com/datasets/ahsanneural/rare-neurological-diseases-mri-curated-edition
