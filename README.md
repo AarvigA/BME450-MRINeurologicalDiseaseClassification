@@ -1,5 +1,5 @@
 # Title
-  "BME450-MRINuerologicalDiseaseClassification"
+  "BME450-MRINeurologicalDiseaseClassification"
 ## Team Members
   Arielle Aarvig (AarvigA)
 ## Project Description  
@@ -10,5 +10,5 @@
   - Hallervorden-Spatz Disease (PKAN)
   - Fukuyama Muscular Dystrophy
   
-Training will be accomplished using the following Kaggle dataset:
+Training will be accomplished using an exerpt from the following Kaggle dataset:
   https://www.kaggle.com/datasets/ahsanneural/rare-neurological-diseases-mri-curated-edition
